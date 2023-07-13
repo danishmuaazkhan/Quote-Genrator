@@ -35,6 +35,7 @@ body {
 button, .author {
   caret-color: transparent;
 }
+
 .quote {
     font-size: 2.75rem;
     font-weight: 500;
