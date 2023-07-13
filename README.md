@@ -1,11 +1,11 @@
-﻿# Quote-Genrator
+
 # Quote Generator
 
 This is a simple web application that generates random quotes. Each time you click the "New Quote" button, a new quote will be displayed on the screen.
 
 ## Demo
 
-You can see a live demo of the application [here](<insert-demo-url>).
+You can see a live demo of the application [here](<https://danishmuaazkhan.github.io/Quote-Genrator/>).
 
 ## Technologies Used
 
