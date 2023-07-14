@@ -84,6 +84,30 @@ button:active {
     }
 }
 
+@media screen and (max-width: 480px) {
+    .quote-container {
+        max-width: 450px;
+        margin: auto 1rem;
+    }
+
+    .quote-text {
+        font-size: 1.75rem;
+    }
+
+    .author {
+        font-size: 1rem ;
+    }
+
+    #quote-left {
+        font-size: 3.75rem;
+    }
+
+    .long-quote {
+        font-size: 1rem;
+    }
+    
+}
+
 .buttons-container {
     width: 100%;
     display: flex;
